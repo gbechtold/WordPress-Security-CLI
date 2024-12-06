@@ -1,0 +1,13 @@
+# .gitignore
+node_modules/
+dist/
+.env
+*.log
+backups/
+.DS_Store
+coverage/
+
+# Treetamer
+treetamer.sh
+/tamed-tree/
+ tamed_tree/
